@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "ChatGPT Prompt Library",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Save, organize, and one-click insert prompts into ChatGPT",
   "permissions": ["storage"],
   "host_permissions": ["https://chatgpt-prompt-library-backend.vercel.app/*"],
